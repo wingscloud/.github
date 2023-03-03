@@ -6,7 +6,7 @@
 
 - [cloud](https://github.com/wingscloud/cloud): 微服务架构设计的 RBAC 权限服务应用程序
 - [ui](https://github.com/wingscloud/ui): SPA 单页面中后台 RBAC 权限管理系统；
-- [template-shop](https://github.com/wingscloud/template-shop)：社区电商 App 开发模板；
+- [template-shop](https://github.com/wingscloud/template-shop)：社区电商微信小程序 / App 开发模板；
 - [template-wash](https://github.com/wingscloud/template-wash)：自助洗车微信小程序开发模板；
-- [template-talks](https://github.com/wingscloud/template-talks)：自助洗车微信小程序开发模板；
+- [template-talks](https://github.com/wingscloud/template-talks)：即时通讯 App 开发模板；
 - [template-website](https://github.com/wingscloud/template-website)：官方门户网站开发模板；
